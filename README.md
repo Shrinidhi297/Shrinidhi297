@@ -1,117 +1,215 @@
-# 👋 Hey, I'm Shrinidhi Gangur!
+<!-- 🌈 ANIMATED HEADER -->
 
-### 💻 CSE Student | Full-Stack Developer | AI & Innovation Enthusiast
+<div align="center">
 
-I’m a Computer Science Engineering student passionate about building modern web applications, exploring AI-powered solutions, and solving real-world problems through technology.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00D4FF&height=230&section=header&text=SHRINIDHI%20GANGUR&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Innovator%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Colourful animated header"/>
 
-I enjoy transforming ideas into working products, experimenting with new technologies, and collaborating with teams to build meaningful solutions.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Full-Stack+Web+Developer;AI+%26+Innovation+Enthusiast;Hackathon+Builder+%F0%9F%9A%80;Turning+Ideas+Into+Reality" alt="Typing SVG"/>
+</a>
 
-- 🔭 Currently building full-stack applications and AI-powered systems
-- 🌱 Exploring AI integration, scalable web applications, and system architecture
-- 🏆 Interested in hackathons, innovation, and competitive programming
-- 💡 Passionate about Web Development, AI, and Software Engineering
-- 🎯 Goal: Build impactful products and become a skilled software engineer
+<br/>
+
+<a href="https://github.com/Shrinidhi297">
+<img src="https://img.shields.io/badge/GitHub-Shrinidhi297-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/shrinidhi-gangur-4a52a53aa">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sngangur123@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Shrinidhi297&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- 👨‍💻 ABOUT ME -->
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+## 💫 About Me
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img align="right" alt="Coding animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Hey there! 👋 I'm **Shrinidhi Gangur**, a Computer Science Engineering student who loves building technology that makes a difference.
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+I enjoy transforming creative ideas into real-world applications, exploring AI, and building modern digital experiences.
+
+- 🔭 **Building:** Full-stack web applications
+- 🌱 **Exploring:** AI integration and scalable architectures
+- 🏆 **Passionate about:** Hackathons and innovation
+- 💻 **Love working with:** Next.js, React, TypeScript and Supabase
+- 🎯 **Mission:** Build impactful products and grow as a software engineer
+- ⚡ **Fun fact:** I believe the best way to learn is by building!
+
+<br clear="right"/>
+
+---
+
+## 🎨 My Tech Universe
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c&theme=dark" alt="Programming languages"/>
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend technologies"/>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql,firebase&theme=dark" alt="Backend and database technologies"/>
+
+### 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma&theme=dark" alt="Developer tools"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📚 Smart Library Website
-A modern web platform designed to improve the digital library experience.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Responsive user interface
-- Modern web development and database integration
-- 🔗 [View Live Project](https://idl-smart-library.vercel.app/)
+<h3>📚 Smart Library</h3>
 
-### 🏥 Smart Appointment & Queue Management System
-A web-based solution designed to simplify appointments and reduce waiting times.
+A modern digital library platform focused on simplifying library access and management.
 
-- Appointment booking and token management
-- Real-time queue tracking
+**Highlights**
+- Responsive web experience
+- Modern UI and database integration
+- Designed for a smoother library experience
+
+<a href="https://idl-smart-library.vercel.app/">
+<img src="https://img.shields.io/badge/Explore_Live_Project-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏥 Smart Queue Management</h3>
+
+A digital appointment and queue solution designed to help reduce waiting times.
+
+**Highlights**
+- Appointment and token management
+- Real-time queue status
 - Admin dashboard and notifications
-- Mobile-responsive interface
 
-### ♻️ ECO-WATCH — Public Waste Management System
-A civic-tech solution focused on making waste collection more transparent and efficient.
+<img src="https://img.shields.io/badge/Domain-Healthcare_AI-06B6D4?style=for-the-badge"/>
 
-- Report overflowing bins and illegal dumping
-- Location-based complaint tracking
-- Staff assignment and collection status updates
-- Analytics and administrative dashboards
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>♻️ Civic & Waste Management</h3>
+
+A civic-tech concept focused on smarter waste collection and public issue tracking.
+
+**Highlights**
+- Location-based complaints
+- Waste collection tracking
+- Operations dashboards and analytics
+
+<img src="https://img.shields.io/badge/Domain-Civic_Tech-10B981?style=for-the-badge"/>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💡 What's Next?</h3>
+
+Always experimenting with new ideas and technologies.
+
+**Currently interested in**
+- AI-powered applications
+- Developer tools
+- Smart city solutions
+- Innovative hackathon projects
+
+<img src="https://img.shields.io/badge/Status-Always_Building-8B5CF6?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Hackathons & Innovation
 
-I enjoy hackathons because they push me to think creatively, collaborate effectively, and turn ideas into practical solutions within limited time.
+<div align="center">
 
-- 💡 Problem-solving through technology
-- ⚡ Rapid prototyping and product development
-- 🤝 Teamwork and collaboration
-- 🚀 Experimenting with AI and emerging technologies
+<img src="https://img.shields.io/badge/THINK-Big-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILD-Smart-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHIP-Fast-06B6D4?style=for-the-badge"/>
 
-> Think creatively. Build practically. Improve continuously.
+</div>
 
----
+I enjoy working on challenging problems, collaborating with teammates, and transforming ideas into functional prototypes.
 
-## 📊 GitHub Statistics
+- 🧠 Creative problem-solving
+- ⚡ Rapid prototyping
+- 🤝 Team collaboration
+- 🚀 Practical, impact-driven innovation
 
-![Shrinidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrinidhi297&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi297&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shrinidhi297&theme=tokyonight&hide_border=true)
+> Great ideas become valuable when you build, test, and improve them.
 
 ---
 
-## 🌐 Connect With Me
+## 📊 My GitHub Dashboard
 
-<p align="left">
-  <a href="https://github.com/Shrinidhi297">
-    <img src="https://img.shields.io/badge/GitHub-Shrinidhi297-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shrinidhi-gangur-4a52a53aa">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sngangur123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/Shrinidhi297">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shrinidhi297&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/Shrinidhi297">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi297&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Most used programming languages"/>
+</a>
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Shrinidhi297&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrinidhi297&bg_color=0D1117&color=00D4FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" alt="GitHub contribution graph"/>
+
+</div>
 
 ---
 
-## 💭 Developer Mindset
+## 🌐 Let's Connect & Collaborate
 
-> "The best way to predict the future is to build it."
+<div align="center">
 
-⭐ Thanks for visiting my profile! Explore my repositories, share ideas, and let's build something meaningful together.
+### Have an idea? Let's build it together! 🤝
 
-**Keep Learning. Keep Building. Keep Innovating. 🚀**
+<a href="https://github.com/Shrinidhi297">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shrinidhi-gangur-4a52a53aa">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sngangur123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send_Me_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2575FC,100:6A11CB&height=120&section=footer" width="100%" alt="Colourful footer"/>
+
+### ✨ Keep Learning. Keep Building. Keep Innovating. ✨
+
+⭐ If you like what I build, explore my repositories and leave a star!
+
+</div>
